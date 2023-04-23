@@ -1,5 +1,3 @@
-# php-mysql-exam-center
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
 <a name="readme-top"></a>
@@ -35,7 +33,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">PHP-MySQL-Exam-Center</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -101,12 +99,13 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-- [![Next][Next.js]][Next-url]
+<!-- - [![Next][Next.js]][Next-url]
 - [![React][React.js]][React-url]
 - [![Vue][Vue.js]][Vue-url]
 - [![Angular][Angular.io]][Angular-url]
 - [![Svelte][Svelte.dev]][Svelte-url]
-- [![Laravel][Laravel.com]][Laravel-url]
+- [![Laravel][Laravel.com]][Laravel-url] -->
+
 - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 - [![JQuery][JQuery.com]][JQuery-url]
 
@@ -160,7 +159,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 
-## Roadmap
+<!-- ## Roadmap
 
 - [x] Add Changelog
 - [x] Add back to top links
@@ -168,7 +167,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
   - [ ] Chinese
-  - [ ] Spanish
+  - [ ] Spanish -->
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
@@ -203,7 +202,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Syed Ziaul Habib - [@your_twitter](https://twitter.com/roobon) - roobon@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
