@@ -23,6 +23,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![YouTube][youtube-shield]][youtube-url]
+[![Twitter][twitter-shield]][twitter-url]
 
 <!-- [![Issues][issues-shield]][issues-url]  -->
 
@@ -63,7 +65,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -241,7 +242,16 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/roobon
 [product-screenshot]: images/screenshot.png
+[youtube-shield]: https://img.shields.io/youtube/channel/views/UCR3PK_wEul8Exxg2zp5sjmw?style=for-the-badge
+[youtube-url]: https://www.youtube.com/channel/UCR3PK_wEul8Exxg2zp5sjmw
+[twitter-shield]: https://img.shields.io/twitter/follow/roobon?style=for-the-badge
+[twitter-url]: https://www.twitter.com/roobon
 
+https://img.shields.io/youtube/channel/views/UCR3PK_wEul8Exxg2zp5sjmw?style=flat-square
+
+https://img.shields.io/twitter/follow/roobon?style=for-the-badge
+
+https://img.shields.io/twitter/url?style=for-the-badge
 <!-- [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
