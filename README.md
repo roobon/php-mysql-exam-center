@@ -81,7 +81,7 @@ The system has a feature that generates a report automatically during exams at t
 
 The major modules in this application are,
 
-<ul>
+<ol>
   <li>Dashboard</li>
   <li>Teacher Management
     <ul>
@@ -107,26 +107,37 @@ The major modules in this application are,
       <li>View Class</li>
     </ul>
   </li>
-</ul>
-
-Exam Management
-Add Room Type
-View Room Type
-Add Room
-View Room
-Add Exam
-View Exam
-Add Allotment
-View Allotment
-USERS
-User Management
-User Permissions
-Settings
-Appearance Management
-Email Management
-Report Management
-Today's Exam
-Exam Report
+  <li>Exam Management
+    <ul>
+      <li>Add Room Type</li>
+      <li>View Room Type</li>
+      <li>Add Room</li>
+      <li>View Room</li>
+      <li>Add Exam</li>
+      <li>View Exam</li>
+      <li>Add Allotment</li>
+      <li>View Allotment</li>
+    </ul>
+  </li>
+  <li>Users
+    <ul>
+      <li>User Management</li>
+      <li>User Permissions</li>
+    </ul>
+  </li>
+  <li>Settings
+    <ul>
+      <li>Appearance Management</li>
+      <li>Email Management</li>
+    </ul>
+  </li>
+  <li>Report Management
+    <ul>
+      <li>Today's Exam</li>
+      <li>Exam Report</li>
+    </ul>
+  </li>
+</ol>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
