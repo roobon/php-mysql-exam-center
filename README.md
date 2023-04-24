@@ -79,15 +79,54 @@ The system facilitates the examination by assigning each student to their respec
 
 The system has a feature that generates a report automatically during exams at the end of the session or in between the session.
 
-Here's why:
+The major modules in this application are,
 
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
+<ul>
+  <li>Dashboard</li>
+  <li>Teacher Management
+    <ul>
+      <li>Add Teacher</li>
+      <li>View Teacher</li>
+    </ul>
+  </li>
+  <li>Student Management
+    <ul>
+      <li>Add Student</li>
+      <li>View Student</li>
+    </ul>
+  </li>
+  <li>Subject Management
+    <ul>
+      <li>Add Subject</li>
+      <li>View Subject</li>
+    </ul>
+  </li>
+  <li>Class Management
+    <ul>
+      <li>Add Class</li>
+      <li>View Class</li>
+    </ul>
+  </li>
+</ul>
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Exam Management
+Add Room Type
+View Room Type
+Add Room
+View Room
+Add Exam
+View Exam
+Add Allotment
+View Allotment
+USERS
+User Management
+User Permissions
+Settings
+Appearance Management
+Email Management
+Report Management
+Today's Exam
+Exam Report
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +155,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+<ul>
+  <li>Download and Install any local web server such as XAMPP/WAMP.</li>
+</ul>
 
 <!-- - npm
   ```sh
