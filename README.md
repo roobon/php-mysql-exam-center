@@ -74,7 +74,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+The Examination Center System is a PHP project that can automate the process of exam allotment and seating arrangement. The system was developed using the following languages: PHP7, HTML5, CSS3, JavaScript, MySQLi, and jQuery.
+The system facilitates the examination by assigning each student to their respected classes and allocating the seating arrangement to avoid conflict. Most of the time student faces problems finding their assign examination center, so with this system, it will be easier to manage the location by arranging each center in a computer-generated way. This is very useful for colleges whereas it can generate a report that concerned the students.
+
+The system has a feature that generates a report automatically during exams at the end of the session or in between the session.
 
 Here's why:
 
@@ -239,7 +242,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/roobon
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: Documents/screenshots/dashboard.JPG
 [youtube-shield]: https://img.shields.io/youtube/channel/views/UCR3PK_wEul8Exxg2zp5sjmw?style=for-the-badge
 [youtube-url]: https://www.youtube.com/channel/UCR3PK_wEul8Exxg2zp5sjmw
 [twitter-shield]: https://img.shields.io/twitter/follow/roobon?style=for-the-badge
