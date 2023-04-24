@@ -33,10 +33,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">PHP-MySQL-Exam-Center</h3>
 
   <p align="center">
@@ -201,7 +197,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Syed Ziaul Habib - [@your_twitter](https://twitter.com/roobon) - roobon@gmail.com
+Syed Ziaul Habib - roobon@gmail.com
+<br>
+[![Twitter][twitter-shield]][twitter-url]
 
 Project Link: [https://github.com/roobon/php-mysql-exam-center](https://github.com/roobon/php-mysql-exam-center)
 
@@ -247,11 +245,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [twitter-shield]: https://img.shields.io/twitter/follow/roobon?style=for-the-badge
 [twitter-url]: https://www.twitter.com/roobon
 
-https://img.shields.io/youtube/channel/views/UCR3PK_wEul8Exxg2zp5sjmw?style=flat-square
 
-https://img.shields.io/twitter/follow/roobon?style=for-the-badge
-
-https://img.shields.io/twitter/url?style=for-the-badge
 <!-- [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
