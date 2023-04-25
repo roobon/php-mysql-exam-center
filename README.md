@@ -143,8 +143,6 @@ The major modules in this application are,
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 <!-- - [![Next][Next.js]][Next-url]
 - [![React][React.js]][React-url]
 - [![Vue][Vue.js]][Vue-url]
@@ -152,6 +150,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - [![Svelte][Svelte.dev]][Svelte-url]
 - [![Laravel][Laravel.com]][Laravel-url] -->
 
+- PHP
+- [![MySQL][Mysql.com]][Mysql-url]
 - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 - [![JQuery][JQuery.com]][JQuery-url]
 
@@ -203,7 +203,6 @@ npm install
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -219,9 +218,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Chinese
 - [ ] Spanish -->
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTRIBUTING -->
 
@@ -254,8 +252,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Syed Ziaul Habib - roobon@gmail.com
 <br>
-[![Twitter][twitter-shield]][twitter-url]
-
 Project Link: [https://github.com/roobon/php-mysql-exam-center](https://github.com/roobon/php-mysql-exam-center)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -264,16 +260,11 @@ Project Link: [https://github.com/roobon/php-mysql-exam-center](https://github.c
 
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 - [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-- [Malven's Grid Cheatsheet](https://grid.malven.co/)
 - [Img Shields](https://shields.io)
 - [GitHub Pages](https://pages.github.com)
 - [Font Awesome](https://fontawesome.com)
-- [React Icons](https://react-icons.github.io/react-icons/search)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -318,4 +309,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
+[Mysql.com]: https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue
+[Mysql-url]: https://mysql.com
 ````
